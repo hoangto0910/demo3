@@ -13,6 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('task/1', function () {
+Route::get('task/2', function () {
     return view('welcome');
 });
